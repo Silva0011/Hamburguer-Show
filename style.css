@@ -1,0 +1,57 @@
+
+.burger img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    height: 100%;
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+.header-bg {
+    background-color: #8B4513; 
+}
+
+.bg-brown {
+    background-color: #271e17;
+    color: #ffffff;
+}
+.btn-custom {
+    background-color: #FFA500;
+    color: #FFFFFF;
+    border-color: #FFA500;
+}
+
+.btn-custom:hover {
+    background-color: #FF8C00;
+    border-color: #FF8C00;
+    color: #FFFFFF;
+}
+.bg-wine {
+    background-color: #271e17; 
+}
+.menu-link {
+    color: #ff0000; 
+}
+.menu .card {
+    border: none;
+}
+
+
+.mr-2 {
+    color: white;
+    
+}
+.mx-2 {
+    color: white
+}
+.ml-2 {
+    color: white
+}

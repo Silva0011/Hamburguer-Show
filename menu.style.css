@@ -1,0 +1,29 @@
+.card {
+    height: 100%;
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+.header-bg {
+    background-color: #271e17; 
+}
+
+.btn-add-to-cart {
+    background-color: #271e17;
+    color: #FFFFFF;
+    border-color: #271e17;
+}
+
+.btn-add-to-cart:hover {
+    background-color: #271e17;
+    border-color: #271e17;
+    color: #FFFFFF;
+}
+.white-text {
+    color: white;
+}
+
+
